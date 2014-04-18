@@ -1,0 +1,10 @@
+[submodule "OnlineLDA"]
+	path = OnlineLDA
+	url = https://github.com/vasiliybondarenko/jolda.git
+	branch = NonStandalone
+[submodule "OnlineLDA-preparation-tool"]
+	path = OnlineLDA-preparation-tool
+	url = https://github.com/vasiliybondarenko/OnlineLDA-preparation-tool.git
+[submodule "IntelligentSearch"]
+	path = IntelligentSearch
+	url = https://github.com/vasiliybondarenko/IntelligentTopicSearch.git
